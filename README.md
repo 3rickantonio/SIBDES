@@ -29,3 +29,6 @@ function dbConnect (){
  ?>
 
 ```
+![alt tag](fotos/1.png)
+![alt tag](fotos/1.png)
+![alt tag](fotos/1.png)
